@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/molten-core-subscriptions/precache-manifest.9f84498904ec90a05f12c729c20486b0.js"
+  "/molten-core-subscriptions/precache-manifest.bf2f6f1822985330d96b555e8b7bb927.js"
 );
 
 self.addEventListener('message', (event) => {

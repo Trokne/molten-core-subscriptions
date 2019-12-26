@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/molten-core-subscriptions/static/css/main.37056859.chunk.css",
-    "main.js": "/molten-core-subscriptions/static/js/main.17cbeacf.chunk.js",
-    "main.js.map": "/molten-core-subscriptions/static/js/main.17cbeacf.chunk.js.map",
+    "main.js": "/molten-core-subscriptions/static/js/main.21e1efc4.chunk.js",
+    "main.js.map": "/molten-core-subscriptions/static/js/main.21e1efc4.chunk.js.map",
     "runtime-main.js": "/molten-core-subscriptions/static/js/runtime-main.b558f559.js",
     "runtime-main.js.map": "/molten-core-subscriptions/static/js/runtime-main.b558f559.js.map",
     "static/js/2.41519b57.chunk.js": "/molten-core-subscriptions/static/js/2.41519b57.chunk.js",
     "static/js/2.41519b57.chunk.js.map": "/molten-core-subscriptions/static/js/2.41519b57.chunk.js.map",
     "index.html": "/molten-core-subscriptions/index.html",
-    "precache-manifest.9f84498904ec90a05f12c729c20486b0.js": "/molten-core-subscriptions/precache-manifest.9f84498904ec90a05f12c729c20486b0.js",
+    "precache-manifest.bf2f6f1822985330d96b555e8b7bb927.js": "/molten-core-subscriptions/precache-manifest.bf2f6f1822985330d96b555e8b7bb927.js",
     "service-worker.js": "/molten-core-subscriptions/service-worker.js",
     "static/css/main.37056859.chunk.css.map": "/molten-core-subscriptions/static/css/main.37056859.chunk.css.map",
     "static/js/2.41519b57.chunk.js.LICENSE": "/molten-core-subscriptions/static/js/2.41519b57.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b558f559.js",
     "static/js/2.41519b57.chunk.js",
     "static/css/main.37056859.chunk.css",
-    "static/js/main.17cbeacf.chunk.js"
+    "static/js/main.21e1efc4.chunk.js"
   ]
 }

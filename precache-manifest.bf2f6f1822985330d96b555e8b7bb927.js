@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d19fb292fab6b74796fa5fb23e518b0",
+    "revision": "d20108f79d15c2c5fff0d872bee4eeef",
     "url": "/molten-core-subscriptions/index.html"
   },
   {
-    "revision": "28f84c6f05bb3c9a2ad4",
+    "revision": "22901261b59a7e45c5f6",
     "url": "/molten-core-subscriptions/static/css/main.37056859.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/molten-core-subscriptions/static/js/2.41519b57.chunk.js.LICENSE"
   },
   {
-    "revision": "28f84c6f05bb3c9a2ad4",
-    "url": "/molten-core-subscriptions/static/js/main.17cbeacf.chunk.js"
+    "revision": "22901261b59a7e45c5f6",
+    "url": "/molten-core-subscriptions/static/js/main.21e1efc4.chunk.js"
   },
   {
     "revision": "8ca11bae54e422c33998",
