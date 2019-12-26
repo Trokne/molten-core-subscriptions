@@ -1,0 +1,47 @@
+
+.App {
+  background-image: url('assets/background.jpg');
+  min-height: 100vh;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: row;
+}
+
+.column {
+  color: white;
+  text-align: center;
+  padding: 13%;
+}
+
+.title {
+  text-shadow: 2px 2px black;
+}
+
+.head {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.description {
+  margin-top: 10px;
+  color: #ebdec2;
+  font-size: 25px;
+}
+
+.buy-button {
+  color: #ebdec2;
+  font-size: 40px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 4px;
+  padding: 5px 20px;
+  border-color: #ebdec2;
+  text-shadow: 2px 2px black;
+  box-shadow: 2px 2px black;
+  background-color: rgba(255, 255, 255, 0.2);
+}
